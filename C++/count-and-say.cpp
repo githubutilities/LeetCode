@@ -23,7 +23,7 @@ private:
         return next_seq;
     }
 };
--e 
+
 // -----JF-----
 
 class Solution {

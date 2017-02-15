@@ -21,7 +21,7 @@ public:
         return nums[left];
     }
 };
--e 
+
 // -----JF-----
 
 class Solution {

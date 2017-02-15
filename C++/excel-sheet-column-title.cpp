@@ -30,7 +30,7 @@ public:
         return convertToTitle((n - 1) / 26) + static_cast<char>((n - 1) % 26 + 'A');
     }
 };
--e 
+
 // -----JF-----
 
 class Solution {

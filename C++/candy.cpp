@@ -18,7 +18,7 @@ public:
         return accumulate(candies.cbegin(), candies.cend(), 0);
     }
 };
--e 
+
 // -----JF-----
 
 class Solution {

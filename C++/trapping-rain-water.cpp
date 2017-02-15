@@ -33,7 +33,7 @@ public:
         return trap;
     }
 };
--e 
+
 // -----JF-----
 
 class Solution {

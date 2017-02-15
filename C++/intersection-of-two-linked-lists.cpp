@@ -42,7 +42,7 @@ public:
         return begin;
     }
 };
--e 
+
 // -----JF-----
 
 /**

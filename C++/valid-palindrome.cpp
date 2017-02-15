@@ -42,7 +42,7 @@ public:
         return true;
     }
 };
--e 
+
 // -----JF-----
 
 class Solution {

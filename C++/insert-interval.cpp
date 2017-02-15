@@ -33,7 +33,7 @@ public:
         return result;
     }
 };
--e 
+
 // -----JF-----
 
 /**

@@ -15,7 +15,7 @@ public:
         return right;
     }
 };
--e 
+
 // -----JF-----
 
 class Solution {

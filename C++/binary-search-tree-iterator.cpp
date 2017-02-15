@@ -47,7 +47,7 @@ private:
  * while (i.hasNext()) cout << i.next();
  */
  
--e 
+
 // -----JF-----
 
 /**

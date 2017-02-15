@@ -33,7 +33,7 @@ public:
         return dummy_smaller.next;
     }
 };
--e 
+
 // -----JF-----
 
 /**

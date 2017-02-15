@@ -68,7 +68,7 @@ public:
                isSymmetricHelper(left->right, right->left);
     }
 };
--e 
+
 // -----JF-----
 
 /**

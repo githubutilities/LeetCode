@@ -19,7 +19,7 @@ public:
         return release1;
     }
 };
--e 
+
 // -----JF-----
 
 class Solution {

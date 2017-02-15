@@ -18,7 +18,7 @@ public:
         return strs[0];
     }
 };
--e 
+
 // -----JF-----
 
 class Solution {

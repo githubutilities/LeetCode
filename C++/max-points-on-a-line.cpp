@@ -42,7 +42,7 @@ public:
         return max_points;
     }
 };
--e 
+
 // -----JF-----
 
 /**

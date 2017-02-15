@@ -28,7 +28,7 @@ public:
         return nullptr;  // No cycle.
     }
 };
--e 
+
 // -----JF-----
 
 /**

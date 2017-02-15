@@ -13,7 +13,7 @@ public:
         return last + 1;
     }
 };
--e 
+
 // -----JF-----
 
 class Solution {

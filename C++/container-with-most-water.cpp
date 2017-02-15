@@ -18,7 +18,7 @@ public:
         return max_area;
     }
 };
--e 
+
 // -----JF-----
 
 class Solution {

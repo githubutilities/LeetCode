@@ -8,7 +8,7 @@ public:
                           0, std::bit_xor<int>());
     }
 };
--e 
+
 // -----JF-----
 
 class Solution {

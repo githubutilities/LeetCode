@@ -25,7 +25,7 @@ public:
         return canBreak[n];
     }
 };
--e 
+
 // -----JF-----
 
 class Solution {

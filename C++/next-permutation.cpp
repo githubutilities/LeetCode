@@ -41,7 +41,7 @@ public:
         next_permutation(num.begin(), num.end());
     }
 };
--e 
+
 // -----JF-----
 
 class Solution {

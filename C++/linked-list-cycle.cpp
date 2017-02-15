@@ -23,7 +23,7 @@ public:
         return false;  // No cycle.
     }
 };
--e 
+
 // -----JF-----
 
 /**

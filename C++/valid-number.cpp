@@ -62,7 +62,7 @@ public:
         return regex_match(s, e);
     }
 };
--e 
+
 // -----JF-----
 
 class Solution {

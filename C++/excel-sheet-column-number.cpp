@@ -12,7 +12,7 @@ public:
         return number;
     }
 };
--e 
+
 // -----JF-----
 
 class Solution {

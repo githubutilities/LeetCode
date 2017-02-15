@@ -23,7 +23,7 @@ public:
         return parentheses.empty();
     }
 };
--e 
+
 // -----JF-----
 
 class Solution {

@@ -50,7 +50,7 @@ private:
         return dummy.next;
     }
 };
--e 
+
 // -----JF-----
 
 /**

@@ -24,7 +24,7 @@ public:
         return head; 
     }
 };
--e 
+
 // -----JF-----
 
 /**

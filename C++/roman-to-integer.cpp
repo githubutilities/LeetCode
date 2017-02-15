@@ -18,7 +18,7 @@ public:
         return decimal;
     }
 };
--e 
+
 // -----JF-----
 
 class Solution {

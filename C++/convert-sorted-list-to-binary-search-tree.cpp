@@ -45,7 +45,7 @@ public:
         return curr;
     }
 };
--e 
+
 // -----JF-----
 
 /**

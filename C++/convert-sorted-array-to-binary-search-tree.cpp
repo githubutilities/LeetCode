@@ -27,7 +27,7 @@ private:
         return nullptr;
     }
 };
--e 
+
 // -----JF-----
 
 /**

@@ -49,7 +49,7 @@ public:
         return s.substr(min_start, min_width);
     }
 };
--e 
+
 // -----JF-----
 
 class Solution {

@@ -10,7 +10,7 @@ public:
         return distance(it, jt);
     }
 };
--e 
+
 // -----JF-----
 
 class Solution {

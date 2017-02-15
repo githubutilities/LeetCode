@@ -29,7 +29,7 @@ public:
         return dummy.next;
     }
 };
--e 
+
 // -----JF-----
 
 /**

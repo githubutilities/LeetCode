@@ -75,7 +75,7 @@ private:
     stack<int> elements_;
     stack<pair<int, int>> cached_min_with_count_;
 };
--e 
+
 // -----JF-----
 
 class MinStack {

@@ -23,7 +23,7 @@ public:
         s.resize(len ? len - 1 : 0);
     }
 };
--e 
+
 // -----JF-----
 
 class Solution {
